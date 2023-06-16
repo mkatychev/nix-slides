@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "inputDir": "./slides",
+    "output": "./public",
+    "@kazumatu981/markdown-it-kroki": "^1.1.1"
+  }
+}
