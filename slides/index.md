@@ -156,7 +156,7 @@ Here is what a part of a typical Nix store looks like:
 
 ---
 
-# Nix - Content-Adressable Store
+# Nix - Content-Addressable Store
 
 Nix employs a content-addressable store, where
 packages are identified by cryptographic hashes of their contents. This enables
@@ -175,7 +175,7 @@ challenging to achieve the same level of caching and sharing.
 
 ---
 
-# Nix - Content-Adressable Store cont.
+# Nix - Content-Addressable Store cont.
 
 Derivations can be very diverse:
 
